@@ -10,7 +10,7 @@
 </br>
 </br>
 <div align="center">
-  <img src="https://github.com/MuselianiMariami/UiKit-18/assets/137683336/29cec5df-ae61-4177-a9ca-90296abfa272" widht="300">
-  <img src="https://github.com/MuselianiMariami/UiKit-18/assets/137683336/80ccf198-6ff6-47dd-8c57-49230fbdd6b8" widht="300">
-  <img src="https://github.com/MuselianiMariami/UiKit-18/assets/137683336/fa419bf0-9eb6-45a3-ad63-73e9118b66c1" widht="300">
+  <img src="https://github.com/MuselianiMariami/UiKit-18/assets/137683336/29cec5df-ae61-4177-a9ca-90296abfa272" width="300">
+  <img src="https://github.com/MuselianiMariami/UiKit-18/assets/137683336/80ccf198-6ff6-47dd-8c57-49230fbdd6b8" width="300">
+  <img src="https://github.com/MuselianiMariami/UiKit-18/assets/137683336/fa419bf0-9eb6-45a3-ad63-73e9118b66c1" width="300">
 </div>
